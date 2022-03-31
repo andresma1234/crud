@@ -1,0 +1,73 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    
+}
+#div1
+{
+    width: 60%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-color: rgb(32, 18, 18);
+    background-image: linear-gradient(rgb(146, 15, 15));
+}
+
+#div2
+{
+    width: 100%;
+    margin: 100 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 1px solid #000000;
+    background-image: linear-gradient( #5cbd4f, rgb(255, 166, 0));
+    text-align: center;
+}
+
+#div3
+{
+    background-color: rgb(204, 92, 92);
+    font-size: 23px;
+    padding: 0;
+    border-width: thin;
+    border: 0px;
+    text-align: center;
+    background-image: linear-gradient( #59b14e, rgb(255, 166, 0));
+}
+
+.lgris
+{
+    color: rgb(0, 0, 0);
+}
+
+.btn1
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(224, 38, 38);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+}
+
+#divconsulta
+{
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-image: linear-gradient( #59b14e, rgb(255, 166, 0));
+}
+
+#divconsulta2
+{
+    background-color: rgb(255, 166, 0);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid #000000;
+    text-align: center;
+}
